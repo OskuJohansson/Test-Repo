@@ -1,9 +1,0 @@
-Aihe: Verkkopankkisovellus
-
-Sovelluksen kuvaus: 
-
-Toteutetaan sovellus, jossa käyttäjä pääsee tarkastelemaan omia pankkitietojaan selaimen kautta.
-
-Tavoitteena on, että käyttäjä pystyy kirjautumaan omalla tunnuksellaan järjestelmään, jossa hän voi tarkastella tiliensä saldoja ja niiden tilitapahtumia, lähettää rahaa toiselle tilille sekä päivittää omia henkilökohtaisia tietojaan. Järjestelmään tulee pystyä myös rekisteröitymään.
-
-Sovellus toteutetaan Javalla.
