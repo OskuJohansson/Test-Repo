@@ -4,6 +4,6 @@ Sovelluksen kuvaus:
 
 Toteutetaan sovellus, jossa käyttäjä pääsee tarkastelemaan omia pankkitietojaan selaimen kautta.
 
-Tavoitteena on, että käyttäjä pystyy kirjautumaan omalla tunnuksellaan järjestelmään, jossa hän voi tarkastella tiliensä saldoja ja niiden tilitapahtumia, lähettää rahaa toiselle tilille sekä päivittää omia henkilökohtaisia tietojaan. Järjestelmään tulee pystyä myös rekisteröitymään.
+Tavoitteena on, että käyttäjä pystyy kirjautumaan omalla tunnuksellaan järjestelmään, jossa hän voi tarkastella tiliensä saldoja ja niiden tilitapahtumia, lähettää rahaa toiselle tilille sekä päivittää omia henkilökohtaisia tietojaan. Järjestelmään tulee pystyä myös rekisteröitymään. Ajan salliessa ohjelmaan voidaan toteuttaa myös viestimisominaisuus, jossa käyttäjät pystyvät lähettämään toisilleen yksityisiä viestejä, jotka ovat luettavissa kirjauduttua.
 
 Sovellus toteutetaan Javalla.

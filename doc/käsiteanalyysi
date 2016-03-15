@@ -1,0 +1,20 @@
+Määrittelystä löytyi seuraavat käsitteet:
+Sovellus		// tätä toteutetaan
+Käyttäjä
+Pankkitiedot		// käyttäjän tietoja, eli attribuutteja
+Selain			// apuna sovelluksen käyttämiseen
+Tunnus			// käyttäjän ominaisuus
+Järjestelmä		// sama kuin sovellus
+Tili			
+Saldo			// tiin ominaisuus
+Tilitapahtumat
+Raha			// määre, joka liittyy tiliin ja tilitapahtumiin
+Henkilökohtaiset tiedot	// käyttäjän ominaisuuksia
+Java			// ohjelmalogiikan toteutuskieli
+Viesti
+
+Tietokantatauluiksi kelpaaviksi osoittautui siis:
+Käyttäjä
+Tili
+Tilitapahtumat
+Viesti
