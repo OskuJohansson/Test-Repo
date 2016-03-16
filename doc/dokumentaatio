@@ -1,13 +1,23 @@
-Aihe: Verkkopankkisovellus
+Aihemäärittelystä löytyi seuraavat käsitteet:
+Sovellus		            // tätä toteutetaan
+Käyttäjä
+Pankkitiedot        		// käyttäjän tietoja, eli attribuutteja
+Selain			            // apuna sovelluksen käyttämiseen
+Tunnus		            	// käyttäjän ominaisuus
+Järjestelmä		          // sama kuin sovellus
+Tili			
+Saldo			              // tiin ominaisuus
+Tilitapahtumat
+Raha			              // määre, joka liittyy tiliin ja tilitapahtumiin
+Henkilökohtaiset tiedot	// käyttäjän ominaisuuksia
+Java			              // ohjelmalogiikan toteutuskieli
+Viesti
 
-Sovelluksen kuvaus: 
-
-Toteutetaan sovellus, jossa käyttäjä pääsee tarkastelemaan omia pankkitietojaan selaimen kautta.
-
-Tavoitteena on, että käyttäjä pystyy kirjautumaan omalla tunnuksellaan järjestelmään, jossa hän voi tarkastella tiliensä saldoja ja niiden tilitapahtumia, lähettää rahaa toiselle tilille sekä päivittää omia henkilökohtaisia tietojaan. Järjestelmään tulee pystyä myös rekisteröitymään. Ajan salliessa ohjelmaan voidaan toteuttaa myös viestimisominaisuus, jossa käyttäjät pystyvät lähettämään toisilleen yksityisiä viestejä, jotka ovat luettavissa kirjauduttua.
-
-Sovellus toteutetaan Javalla.
-
+Tietokantatauluiksi kelpaaviksi osoittautui siis:
+Käyttäjä
+Tili
+Tilitapahtumat
+Viesti
 
 
 
